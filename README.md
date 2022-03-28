@@ -31,3 +31,19 @@ Create production mode spa
 `npm run build:webpack`
 `discomment <!-- <script type="systemjs-importmap" src="/importmap.json"></script> -->`
 `at dist, create file called importmap.json and past the lines systemjs-importmap`
+
+---
+
+How to start
+
+`cd single-spa`
+
+`npm start`
+
+`cd react-app`
+
+`npm start`
+
+`cd angular-app`
+
+`npm start`
